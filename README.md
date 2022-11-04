@@ -1,6 +1,6 @@
 # James-Potgieter-Fibonacci
 
-The program presented in used to find the index of the first term of the Fibonacci sequence to contain a user-specified number of digits.
+The program presented in used to find the index of the first term of the Fibonacci sequence to contain a user-specified number of digits. It is accurate up to 19 digits.
 
 ## Requirements
 
